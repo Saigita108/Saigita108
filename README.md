@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello visitor 🌸
+My name is Saigita Goossens
+- I’m currently a second year student in DEVINE 💕
+- At the moment you will only find school assignments here 🎀
+- Special interest in coding ✨
 
 <!--
 **Saigita108/Saigita108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
